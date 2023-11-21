@@ -34,7 +34,7 @@ function AddEmployee() {
 		formdata.append("contactofnextofkin", data.contactofnextofkin);
 		formdata.append("addressofnextofkin", data.addressofnextofkin);
 		formdata.append("image", data.image);
-		axios.post('http://localhost:8081/create', formdata)
+		axios.post('http://https://harvestersserver.cyclic.app/create', formdata)
 		.then(res => {
 			navigate('/employee')
 		})
