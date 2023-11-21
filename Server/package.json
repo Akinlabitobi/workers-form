@@ -25,9 +25,16 @@
     "mysql2": "^3.6.3",
     "path": "^0.12.7"
   },
+   },
+15    "author": "",
+16    "license": "ISC",
+17    "bugs": {
+18        "url": "https://github.com/Akinlabitobi/server/issues"
+19    },
   "description": "",
+   "homepage": "https://github.com/Akinlabitobi/server#readme"
   "devDependencies": {
     "nodemon": "^3.0.1"
-     "homepage": "https://github.com/Akinlabitobi/server#readme"
+    
   }
 }
